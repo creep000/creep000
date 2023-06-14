@@ -1,5 +1,10 @@
-### Hi there 👋
+<h1 align="left">Hi, here ame Junior Developer</h1>
 
+<h2 align="left">Languages & Info</h2>
+<ul dir="auto">
+<li> learning <strong>C++</strong>, <strong>Python</strong></li>
+<li>contact me: <strong>9t1 on discord</strong></li>
+</ul>
 <!--
 **creep000/creep000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
