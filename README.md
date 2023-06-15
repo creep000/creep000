@@ -1,4 +1,4 @@
-<h1 align="left">Hi, here ame Junior Developer</h1>
+<h1 align="left">Hi, here ame Junior Developer/graphic designer</h1>
 
 <h2 align="left">Languages & Info</h2>
 <ul dir="auto">
